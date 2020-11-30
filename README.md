@@ -8,7 +8,7 @@ Data: 24.04.2020 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Przemysław Dzierlatka  
+Imię i nazwisko studenta: Przemysław Dzierlatkaa  
 Numer albumu: 72525  
 Grupa studencka: WELE18xyS1
 
