@@ -8,8 +8,8 @@ Data: 24.04.2020 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Imię Nazwisko  
-Numer albumu: 12345  
+Imię i nazwisko studenta: Przemysław Dzierlatka  
+Numer albumu: 72525  
 Grupa studencka: WELE18xyS1
 
 # Pytania do zadań z instrukcji
